@@ -1,7 +1,7 @@
 # Customizing this holder for your multimeter
-To customize this design for your multimeter, open [the `.FCStd` file](multimeter%20skadis%20v2.FCStd) in [FreeCAD](https://www.freecad.org/) and then open the spreadsheet inside the model file.
+To customize this design for your multimeter, open [the `.FCStd` file](multimeter%20skadis%20v2.FCStd) in [FreeCAD](https://www.freecad.org/) and then open the spreadsheet inside the FCStd file.
 
-Measure the dimensions shown and fill in the corresponding row in the spreadsheet.
+Measure the dimensions shown (round up to the nearest mm) and fill in the corresponding row in the spreadsheet.
 
 Note: FreeCAD's solver sometimes messes up (because there are multiple possible solutions; see [this thread](https://forum.freecad.org/viewtopic.php?t=25615)). When this happens, try slowly adjusting the parameter until it reaches the value you want, or adjust a different value first.
 
